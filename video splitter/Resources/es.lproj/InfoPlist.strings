@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  video splitter
+
+  Created by Renzo Delgado on 28/06/22.
+  
+*/
+
+"NSCameraUsageDescription" = "Se necesita acceso a la cámara para grabar los videos que se van a dividir.";
+"NSMicrophoneUsageDescription" = "Se necesita acceso al micrófono para que los videos grabados tengan sonido.";
+"NSPhotoLibraryUsageDescription" = "Se necesita acceso a la librería para guardar los videos divididos.";

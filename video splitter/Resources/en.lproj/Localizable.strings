@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  video splitter
+
+  Created by Renzo Delgado on 4/07/22.
+  
+*/
+
+
+"CameraPermissionAlertTitle" = "Camera Permission";
+"CameraPermissionAlertContent" = "Camera access is needed in order to record videos for splitting.";
+
+"PhotoPermissionAlertTitle" = "Camera Roll Permission";
+"PhotoPermissionAlertContent" = "Camera Roll access is needed in order to save resulting videos.";
+
+
+"RecordVideo" = "Record video";
+"PickFromGallery" = "Pick from gallery";
+"VideoTooShort" = "Video too short";
+"VideoMinLength" = "The selected video must be at least 5 seconds length.";
+"SplitVideo" = "Split Video";
+"SplitSave" = "Split and Save Clips";
+
+"Amount Parts %lf" = "Clip length: %.0f seconds";
+"Amount Clips %lld" = "Your video will be splitted in %lld clips";
+
+"Camera" = "Camera";
+"CameraCaption" = "Record a video to be splitted in parts";
+
+"Gallery" = "Gallery";
+"GalleryCaption" = "Split a video stored in your device gallery";
+
+
+"Settings" = "Settings";
+"SettingsCaption" = "Configure the application and obtain more benefits";
+
+"AppTitle" = "Video Splitter";
+"SelectVideo" = "Select a video you want to split";
+
+"Splitting" = "Splitting Video";
+"Saving" = "Saving Videos";
+
+"SaveAll" = "Save All";
+"ShareAll" = "Share All";
+"Share" = "Share";
+"SaveAllSuccess" = "All clips were saved in your gallery";
+"SaveAllError" = "An error ocurred while saving splitted clips";
+
+"SharePart %lld" = "Share (%lld)";
+
+"SuccessVideoSplitted %lld" = "Your video habe been successfully splitted in %lld clips.";
+
+"PremiumVersion" = "Premium Version";
+"MoreApps" = "More Apps";
+"PrivacyPolicy" = "Privacy Policy";
+"Version %@" = "Version %@";
+
+"RemoveAdsTitle" = "Remove ads";
+"RemoveAdsCaption" = "No more ads. Browse the app without distractions.";
+
+"ShareAtOnceTitle" = "Share all videos";
+"ShareAtOnceCaption" = "Share all your splitted clips at once.";
+
+"SaveAtOnceTitle" = "Save all videos";
+"SaveAtOnceCaption" = "Save all your splitted clips at once.";
+
+"SinglePaymentTitle" = "Single payment";
+"SinglePaymentCaption" = "Be premium forever by paying only once. No annoying subscriptions.";
+
+"GetPro" = "Get Pro";
+"Buy %@" = "Buy %@";
+
+"Purchased" = "Purchased";
+"Restore" = "Restore Purchase";
+"Purchasing" = "Purchasing";

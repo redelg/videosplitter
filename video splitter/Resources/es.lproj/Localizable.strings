@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  video splitter
+
+  Created by Renzo Delgado on 4/07/22.
+  
+*/
+
+
+"CameraPermissionAlertTitle" = "Permiso de Cámara";
+"CameraPermissionAlertContent" = "Se necesita acceso a la cámara para grabar los videos que se van a dividir.";
+
+"PhotoPermissionAlertTitle" = "Permisos de Galería";
+"PhotoPermissionAlertContent" = "Se necesita acceso a la galería de fotos para guardar los videos divididos.";
+
+"RecordVideo" = "Grabar video";
+"PickFromGallery" = "Escoger de la galería";
+"VideoTooShort" = "Video demasiado corto";
+"VideoMinLength" = "El video seleccionado debe tener al menos 5 segundos de duración.";
+"SplitVideo" = "Dividir Video";
+"SplitSave" = "Dividir y Guardar Videos";
+
+"Amount Parts %lf" = "Duración: %.0lf segundos";
+"Amount Clips %lld" = "El video será dividido en %lld partes";
+
+
+"Camera" = "Cámara";
+"CameraCaption" = "Graba un video y compártelo dividido en partes";
+
+"Gallery" = "Galería";
+"GalleryCaption" = "Divida un video almacenado en la galería de su dispositivo";
+
+"Settings" = "Configuración";
+"SettingsCaption" = "Configura la aplicación y disfruta de más beneficios";
+
+"AppTitle" = "Divisor de Video";
+"SelectVideo" = "Selecciona un video para empezar";
+
+"Splitting" = "Dividiendo Video";
+"Saving" = "Guardando Videos";
+
+"SaveAll" = "Guardar Todo";
+"ShareAll" = "Compartir Todo";
+"Share" = "Compartir";
+"SaveAllSuccess" = "Los videos fueron guardados en tu galería";
+"SaveAllError" = "Ocurrió un error al guardar los videos en tu galería";
+"SharePart %lld" = "Compartir (%lld)";
+
+"SuccessVideoSplitted %lld" = "El video ha sido dividido exitosamente en %lld partes.";
+
+"PremiumVersion" = "Versión Premium";
+"MoreApps" = "Nuestras Apps";
+"PrivacyPolicy" = "Política de Privacidad";
+"Version %@" = "Versión %@";
+
+"RemoveAdsTitle" = "Quitar publicidad";
+"RemoveAdsCaption" = "No más anuncios. Navega tranquilamente en la aplicación sin distracciones.";
+
+"ShareAtOnceTitle" = "Compartir todo los videos";
+"ShareAtOnceCaption" = "Comparte todas las partes divididas del video a la vez.";
+
+"SaveAtOnceTitle" = "Guardar todo los videos";
+"SaveAtOnceCaption" = "Guarda todas las partes divididas del video a la vez.";
+
+"SinglePaymentTitle" = "Un solo pago";
+"SinglePaymentCaption" = "Sé premium para siempre pagando una sola vez. Sin molestas subscripciones.";
+
+"GetPro" = "Obtener Pro";
+"Buy %@" = "Comprar %@";
+
+"Purchased" = "Adquirido";
+"Restore" = "Restaurar Compra";
+"Purchasing" = "Cargando";
