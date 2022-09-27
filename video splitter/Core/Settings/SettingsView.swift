@@ -74,7 +74,7 @@ struct SettingsView: View {
             PremiumView()
         }
         .navigationBarHidden(false)
-        .navigationTitle("Opciones")
+        .navigationTitle(StaticTexts.Settings)
     }
 }
 

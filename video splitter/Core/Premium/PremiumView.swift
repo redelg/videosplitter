@@ -18,6 +18,7 @@ struct PremiumView: View {
     var body: some View {
         NavigationView {
             ZStack {
+                
                 VStack {
                     Rectangle()
                         .foregroundColor(Color.theme.background)
@@ -41,7 +42,8 @@ struct PremiumView: View {
                         }
                         .padding([.top, .bottom], 5)
                     }
-            
+                    .modifier(ListBackgroundModifier())
+
                     purchaseButton
                     
                 }

@@ -6,6 +6,7 @@
   
 */
 
+"CFBundleDisplayName" = "Video Splitter";
 "NSCameraUsageDescription" = "Camera access is needed in order to record videos for splitting.";
 "NSMicrophoneUsageDescription" = "Microphone access is needed in order to record videos with audio.";
 "NSPhotoLibraryUsageDescription" = "Photo Library access is needed in order to save new videos.";

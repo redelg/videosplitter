@@ -36,7 +36,7 @@ enum AdFormat {
 }
 
 
-final class BannerViewController: UIViewControllerRepresentable  {
+struct BannerViewController: UIViewControllerRepresentable  {
     
     let adUnitID: String
     let adSize: GADAdSize
